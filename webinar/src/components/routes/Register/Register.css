@@ -1,0 +1,47 @@
+/* src/components/routes/Home/Register/Register.css */
+
+
+.webinar-page{
+    background-color: aliceblue;
+
+}
+
+.form-register{
+    width: 90%;
+    margin: auto;
+}
+
+.wall-bg{
+    width: 65%;
+    margin-top: 0rem;
+}
+
+.form-heading{
+    margin-top: 1rem;
+}
+
+.form-line1{
+    font-size: 2rem;
+    font-weight: 800;
+}
+
+.form-line2{
+    font-size: 1.6rem;
+    font-weight: 600;
+    color: #F27259;
+}
+
+.main-form{
+    width: 50%;
+    margin: auto;
+    margin-top: 2rem;
+}
+
+.col{
+    margin-top: 1rem;
+}
+
+.sbt-btn{
+    margin-top: 1rem;
+    
+}

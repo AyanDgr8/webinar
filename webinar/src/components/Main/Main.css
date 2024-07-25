@@ -1,0 +1,26 @@
+npm install react-router-dom/* src/components/Main.css */
+
+body, html {
+    margin: auto;
+    padding: 0;
+    overflow-x: hidden;
+    width: 90%;
+    background-color: #F27259;
+  }
+  
+  
+  #root { 
+    overflow-x: hidden;
+  }
+  
+  .element-style{
+    overflow-x: hidden;
+  }
+    
+  .column{
+    overflow-x: hidden;
+  }
+  
+
+  
+  
